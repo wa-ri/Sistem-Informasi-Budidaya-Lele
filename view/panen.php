@@ -1,0 +1,1 @@
+<div id="view_jdl" style="margin:10%;"></div>
